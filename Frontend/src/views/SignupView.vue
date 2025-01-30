@@ -50,7 +50,7 @@ mounted()
         </button>
       </div>
       <div class="overlay-container">
-        <h1>Welcome !</h1>
+        <h1 style="color:black;">Welcome !</h1>
         <span class="tone-down--white">fill your information</span>
 
         <form @submit.prevent="SignUp">

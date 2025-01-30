@@ -85,6 +85,7 @@ main {
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  color: black;
 }
 
 .form-container, .overlay-container {
@@ -188,5 +189,6 @@ span {
   background: linear-gradient(to left, rgb(29, 32, 65), #417186);
   color: #fff;
 }
+
 
 </style>

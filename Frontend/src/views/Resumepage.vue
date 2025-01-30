@@ -40,6 +40,7 @@ export default {
   margin-left: 60px;
   text-align: center;
   text-transform: uppercase;
+  color: black;
 }
 
 .containerr h1 {
