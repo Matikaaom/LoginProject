@@ -16,4 +16,4 @@
 
 2.) cd ...\Backend\db
 
-3.)json-server --watch db.json
+3.) json-server --watch db.json
