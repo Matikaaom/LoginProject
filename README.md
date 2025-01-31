@@ -2,7 +2,7 @@
 
 ใช้ node.js version 22.13.1
 
-- Set up Frontend -
+- Set up Frontend 
 
 1.) cd ...\Frontend
 
@@ -10,7 +10,7 @@
 
 3.) npm run dev
 
-- Set up Backend -
+- Set up Backend 
 
 1.) npm install -g json -server
 
